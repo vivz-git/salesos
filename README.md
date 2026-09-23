@@ -50,7 +50,7 @@ FastAPI acts as the authoritative control plane managing multi-tenant state and 
 | Frontend | Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui |
 | Backend | FastAPI, SQLAlchemy 2 (async), Pydantic, pytest, mypy |
 | Database / Auth | Supabase (PostgreSQL, Row-Level Security, Auth) |
-| AI | Groq LLM (`llama-3.3-70b-versatile`) |
+| AI | Groq LLM (`gpt oss 120b`) |
 | Integrations | Resend (email delivery + webhooks), HubSpot CRM (OAuth v3) |
 | Hosting | Vercel (frontend), Railway (backend, Docker) |
 
